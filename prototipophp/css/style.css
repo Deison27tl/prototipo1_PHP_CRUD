@@ -1,0 +1,16 @@
+.login{
+    text-align: center;
+      }
+hr {
+    height: 80px;
+    background-color: rgb(40, 203, 214);
+   }
+.formulario_login{
+    text-align: center;
+   }
+   .container mt-5{
+    text-align: center;
+   }
+
+#may{text-transform:capitalize;}
+#max{text-transform:capitalize;}

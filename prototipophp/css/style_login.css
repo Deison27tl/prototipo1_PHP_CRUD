@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background:white; 
+    background-repeat: no-repeat;
+    background-size: cover;
+   }
+  
+   hr {
+    height: 10px;
+    background-color: rgb(38, 177, 177);
+  }
+.formulario_login{
+    text-align: center;
+   }
+.modulo_login{
+  width: 300px;
+  height: 320px;
+  background-color: white;
+  position: absolute;
+  top: 35%;
+  left: 40%;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  border: rgb(170, 188, 190) 2px solid;
+  margin: 23px;
+
+}
+.modulo_item{
+    padding-top: 10px;
+    
+}
+input {
+    margin-bottom:20px;
+    width:60%;
+    padding:10px;
+    -webkit-box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    box-sizing:border-box;
+    border:1px solid #ccc;
+  }
